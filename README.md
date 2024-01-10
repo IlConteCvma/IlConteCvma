@@ -9,6 +9,23 @@ Below, some stats and languages that I have used or I like to use <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlConteCvma&layout=compact&theme=ambient_gradient )](https://github.com/anuraghazra/github-readme-stats)
 
+# Knowledge
+
+## Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Operaring systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (different distro)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <!--
 **IlConteCvma/IlConteCvma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
