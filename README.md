@@ -4,9 +4,9 @@ I am a computer engineer at University of Rome Tor Vergata🎓. Currently improv
 # About this github profile
 Below, some stats and languages that I have used or I like to use <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IlConteCvma&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IlConteCvma&count_private=true&theme=ambient_gradient )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlConteCvma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlConteCvma&layout=compact&theme=ambient_gradient )](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
