@@ -1,5 +1,6 @@
 # Hi there 👋
-I am a computer engineer at University of Rome Tor Vergata🎓. Currently improving my knowledge with the PhD in Computer Engineering as a security researcher. 
+I am a computer engineer at University of Rome Tor Vergata🎓. Currently improving my knowledge with the PhD in Computer Engineering as a security researcher 🌱.
+🔭 I’m currently working on mysterious stuff
 
 # About this github profile
 Below, some stats and languages that I have used or I like to use <br>
