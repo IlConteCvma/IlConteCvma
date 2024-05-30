@@ -2,7 +2,7 @@
 I am a computer engineer at University of Rome Tor Vergata🎓. Currently improving my knowledge with the PhD in Computer Engineering as a security researcher 🌱.
 🔭 I’m currently working on mysterious stuff
 
-## :man_technologist: University repo
+## :university: University repo
 
 My university projects can be found [here](https://github.com/orgs/ConteCvmaUniversity/repositories)
 
