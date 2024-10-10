@@ -9,7 +9,7 @@ My university projects can be found [here](https://github.com/orgs/ConteCvmaUniv
 # About this github profile
 Below, some stats and languages that I have used or I like to use <br>
 
-[![GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=IlConteCvma&count_private=true&theme=ambient_gradient&include_orgs=true&include_all_commits=true&bg_color=000f0c)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=IlConteCvma&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&include_orgs=true&include_all_commits=true&bg_color=000f0c)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=IlConteCvma&layout=compact&theme=transparent&include_orgs=true&count_private=true&langs_count=10&bg_color=000f0c)](https://github.com/anuraghazra/github-readme-stats)
 
