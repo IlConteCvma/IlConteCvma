@@ -24,11 +24,13 @@ Below, some stats and languages that I have used or I like to use <br>
   </a>
 </div>
 
+
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="200" src="https://streak-stats.demolab.com/?user=IlConteCvma&theme=elegant" alt="IlConteCvma's streak stats" />
+  <a href="https://github.com/IlConteCvma">
+    <img height="200" src="./profile/streak.svg" alt="IlConteCvma's streak stats" />
   </a>
 </div>
+
 
 
 # Knowledge
