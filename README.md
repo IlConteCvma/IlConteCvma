@@ -14,20 +14,22 @@ Below, some stats and languages that I have used or I like to use <br>
 [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=IlConteCvma&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&include_orgs=true&include_all_commits=true&bg_color=000f0c" alt="Github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=IlConteCvma&layout=compact&theme=transparent&include_orgs=true&count_private=true&langs_count=10&bg_color=000f0c" alt="Top Language stats" />
-</a>
+
+<div align="center">
+  <a href="https://github.com/IlConteCvma">
+    <img height="200" src="https://github-stats-extended.vercel.app/api?username=IlConteCvma&show_icons=true&include_all_commits=true&theme=transparent&bg_color=000f0c" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/IlConteCvma">
+    <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IlConteCvma&layout=compact&theme=transparent&langs_count=10&bg_color=000f0c" alt="Top languages" />
+  </a>
 </div>
 
-<div align="center"> 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=IlConteCvma">
-<img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=IlConteCvma&theme=elegant" alt="IlConteCvma's streak stats" />
-</a>
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="200" src="https://streak-stats.demolab.com/?user=IlConteCvma&theme=elegant" alt="IlConteCvma's streak stats" />
+  </a>
 </div>
+
 
 # Knowledge
 
