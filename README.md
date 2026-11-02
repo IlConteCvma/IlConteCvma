@@ -15,15 +15,15 @@ Below, some stats and languages that I have used or I like to use <br>
 -->
 
 
+
 <div align="center">
   <a href="https://github.com/IlConteCvma">
-    <img height="200" src="https://github-stats-extended.vercel.app/api?username=IlConteCvma&show_icons=true&include_all_commits=true&theme=transparent&bg_color=000f0c" alt="GitHub stats" />
+    <img height="200" src="./profile/stats.svg" alt="GitHub stats" />
   </a>
   <a href="https://github.com/IlConteCvma">
-    <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IlConteCvma&layout=compact&theme=transparent&langs_count=10&bg_color=000f0c" alt="Top languages" />
+    <img height="200" src="./profile/top-langs.svg" alt="Top languages" />
   </a>
 </div>
-
 
 <div align="center">
   <a href="https://github.com/IlConteCvma">
